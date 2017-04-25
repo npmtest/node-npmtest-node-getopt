@@ -1,6 +1,6 @@
 # npmtest-node-getopt
 
-#### test coverage for  [node-getopt (v0.2.3)](http://github.com/jiangmiao/node-getopt)  [![npm package](https://img.shields.io/npm/v/npmtest-node-getopt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-getopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-getopt.svg)](https://travis-ci.org/npmtest/node-npmtest-node-getopt)
+#### basic test coverage for  [node-getopt (v0.2.3)](http://github.com/jiangmiao/node-getopt)  [![npm package](https://img.shields.io/npm/v/npmtest-node-getopt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-getopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-getopt.svg)](https://travis-ci.org/npmtest/node-npmtest-node-getopt)
 
 #### featured command line args parser
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-getopt/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-getopt/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-getopt/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-getopt/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-getopt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-getopt/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-getopt/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-getopt/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-getopt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-getopt/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-getopt/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-getopt/build/coverage.html/index.html)
 
@@ -71,7 +71,8 @@
         "url": "git://github.com/jiangmiao/node-getopt.git"
     },
     "scripts": {},
-    "version": "0.2.3"
+    "version": "0.2.3",
+    "bin": {}
 }
 ```
 
